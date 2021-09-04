@@ -16,6 +16,8 @@
 
 [<img align="left" alt="xBlockBuster98 | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/telegram/telegram.png" />][telegram]
 
+<br />
+
 ### Languages and tools I prefer and like:
 
 [<img align="left" alt="Java | Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][youtube]
