@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Luongo</h1>
-<h3 align="center">A Junior Java Developer, and Student</h3>
+<h3 align="center">A 17 y.o. Student and Junior Java Develope</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xblockbuster98&label=Profile%20views&color=0e75b6&style=flat" alt="xblockbuster98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xblockbuster98" alt="xblockbuster98" /></a> </p>
@@ -7,10 +7,6 @@
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [www.github.com/xBlockBuster98](www.github.com/xBlockBuster98)
-
-- 📄 Know about my experiences [www.github.com/xBlockBuster98](www.github.com/xBlockBuster98)
-
-- ⚡ Fun fact **I'm from Italy, and I'm 17 y.o.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
