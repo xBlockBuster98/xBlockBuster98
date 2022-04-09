@@ -48,18 +48,15 @@
   </a> <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 
-<br />
-<br />
+</p>
 
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xBlockBuster98&show_icons=true&count_private=true&" alt="xBlockBuster98" />
 </p>
-<p align="center"><img src="https://discord.c99.nl/widget/theme-3/758012458945216703.png" /> 
-</p>
 
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/758012458945216703.png" /> 
   <hr>
-<p aligh="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xblockbuster98&" alt="xblockbuster98" />
-  </p>
-<hr>
+</p>
