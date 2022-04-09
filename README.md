@@ -54,13 +54,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xBlockBuster98&show_icons=true&count_private=true&" alt="xBlockBuster98" />
 </p>
-<p align="center"><img src="https://discord.c99.nl/widget/theme-2/573481869937606696.png" /> 
+<p align="center"><img src="https://discord.c99.nl/widget/theme-3/758012458945216703.png" /> 
 </p>
 <hr>
 
 <br />
-<br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xblockbuster98&show_icons=true&locale=en" alt="xblockbuster98" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xblockbuster98&" alt="xblockbuster98" /></p>
+  <hr>
+<p aligh="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xblockbuster98&" alt="xblockbuster98" />
+  </p>
+<hr>
