@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alessandro Luongo</h1>
 <h3 align="center">A 17 y.o. Student and Junior Java Develope</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xBlockBuster98" alt="xBlockBuster98" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xBlockBuster98" alt="xBlockBuster98" /> </p>
 
 <h2 align="center"> What I have worked on, and what I'm currently working on</h2>
 
@@ -8,8 +8,8 @@
 - 🌊 [**CoralMC**](https://www.coralmc.it/) - The biggest Minecraft server in Italy (by players).
 - 👨‍💻 All of my public projects are available in my [**GitHub Profile**](https://www.github.com/xBlockBuster98)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   
 <a href="https://dev.to/xblockbuster98" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="xblockbuster98" height="30" width="40" />
@@ -29,7 +29,8 @@
 </p>
 
 <h3 align="center">Linguages and framework that i use (almost) every day:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank">
+<p align="center"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   
   </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
@@ -56,9 +57,7 @@
 </p>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-3/758012458945216703.png" /> 
 </p>
-<hr>
 
-<br />
   <hr>
 <p aligh="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xblockbuster98&" alt="xblockbuster98" />
