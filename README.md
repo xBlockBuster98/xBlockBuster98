@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alessandro Luongo</h1>
+<h1 align="center">Hi I'm Alessandro! 👋</h1>
 <h3 align="center">A 17 y.o. Student and Junior Java Develope</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xBlockBuster98" alt="xBlockBuster98" /> </p>
 
@@ -10,6 +10,7 @@
 
 - 👨‍💻 All of my public projects are available in my [**GitHub Profile**](https://www.github.com/xBlockBuster98)
 
+<hr>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -66,5 +67,8 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/758012458945216703.png" /> 
   <hr>
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xblockbuster98&" alt="xblockbuster98" />
 </p>
