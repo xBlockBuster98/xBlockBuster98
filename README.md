@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Alessandro! 👋</h1>
-<h3 align="center">A 17 y.o. Student and Junior Java Develope</h3>
+<h3 align="center">A 18 y.o. Student and Junior Java Develope</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xBlockBuster98" alt="xBlockBuster98" /> </p>
 
 <h2 align="center"> What I have worked on, and what I'm currently working on</h2>
@@ -33,10 +33,6 @@
 
 <h3 align="center">Linguages and framework that i use (almost) every day:</h3>
 <p align="center"> 
-
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> 
 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
